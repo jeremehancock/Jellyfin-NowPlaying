@@ -37,7 +37,7 @@ if [ -n "$currently_playing" ]; then
   italic_end="\e[0m"
   
   echo ""
-  echo -e "${italic_start}Now Playing on Anansi (Jellyfin):${italic_end}"
+  echo -e "${italic_start}Now Playing on ${HOSTNAME^} (Jellyfin):${italic_end}"
   echo -e "${green_color}${currently_playing}${italic_end}"
   echo ""
 fi
