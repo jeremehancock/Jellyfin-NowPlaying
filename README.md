@@ -1,10 +1,15 @@
 # Jellyfin-NowPlaying
-####  Display what is currently playing on your Jellyfin server on the command line.
+
+###  Display what is currently playing on your Jellyfin server on the command line.
 
 This script has only been tested on a machine running Linux.
 
-<img src="https://raw.githubusercontent.com/jeremehancock/Jellyfin-NowPlaying/main/jellyfin-nowplaying-terminal.png" />
+![Screenshot](https://raw.githubusercontent.com/jeremehancock/Jellyfin-NowPlaying/main/jellyfin-nowplaying-terminal.png "Screenshot")
 
-## Disclaimer
+## License
 
-All code is provided as-is without any warranty.
+[MIT License](LICENSE)
+
+## AI Assistance Disclosure
+
+This tool was developed with assistance from AI language models.
