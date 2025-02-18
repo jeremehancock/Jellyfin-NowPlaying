@@ -1,5 +1,7 @@
 # Jellyfin-NowPlaying
 
+## This script has been deprecated in favor of [Ludanta](https://github.com/jeremehancock/Ludanta)
+
 ###  Display what is currently playing on your Jellyfin server on the command line.
 
 This script has only been tested on a machine running Linux.
